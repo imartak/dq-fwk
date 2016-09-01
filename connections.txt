@@ -1,0 +1,2 @@
+schema_id,username,password,con_string
+1,cen86113,heslo123,(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=dwhpd-d.cc.csin.cz)(PORT=1522))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=DWHP)))

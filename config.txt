@@ -1,0 +1,16 @@
+[Roots]
+dqi_root_page=70250069
+dqc_root_page=92176817
+
+[BusDate]
+bus_date=20160731
+
+[Confluence]
+rest_api_url=http://cnfl.csin.cz/rest/api/content/
+
+spaceName=BICC
+username=tech_bicc
+password=p10zcGIg7mNq
+
+[SQLPlus]
+sqlplus=C:\instantclient_11_2\sqlplus

@@ -1,0 +1,6 @@
+INIT.ps1 ø.840,951 zmìna delimiteru na ; (zmìna i v DQ_DQI_Select.sql)
+scheduler.ps1 ø.484 zmìna delimiteru na ; (zmìna i v DQ_DQI_Select.sql)
+scheduler.ps1 log(), run-sql(): na základì periodicity_key string do názvu souboru
+scheduler.ps1: doplnìno weekly
+vytvoøeno: Weekly.ps1
+EXEC.ps1 rozdìlení bìhu do 4 vláken pro vìtší poèet sql
